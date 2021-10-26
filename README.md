@@ -1,9 +1,6 @@
-# POV-Ray scene file
+# POV-Ray LiteBIRD scan video
 
-This repository contains the POV-Ray files used to create the
-following video:
-
-[![Link to YouTube video](https://img.youtube.com/vi/C0xdvI1rNzg/0.jpg)](https://www.youtube.com/watch?v=C0xdvI1rNzg)
+This repository contains the POV-Ray files used to create the mp4 video in the folder.
 
 To re-create the animation, you need to have:
 
@@ -11,10 +8,4 @@ To re-create the animation, you need to have:
 -  [POV-Ray 3.7](http://povray.org/)
 -  [ffmpeg](https://ffmpeg.org/)
 
-If you have all the programs available on your path, just run
-
-    povray litebird-scanning-strategy.ini
-    
-(For those not proficient with POV-Ray, the `.ini` file describes how
-images should be created, but the juicy parts with the geometry are in
-the `.pov` file.)
+Repo created from: https://github.com/ziotom78/povray_scanning_strategy.
